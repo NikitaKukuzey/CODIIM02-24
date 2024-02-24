@@ -1,0 +1,2 @@
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+Склонируйте репозиторий, в папке projects создайте папку с названием своего проекта на английском, добавьте туда код вашего проекта и по инструкции по ссылке сделайте pull request.
